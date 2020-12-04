@@ -27,3 +27,4 @@ if a == 'y':
         print("no coś zjebałeś bo plik istnieje :)")
 else:
     pass
+#test gita
